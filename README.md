@@ -10,3 +10,5 @@ Atualmente, estou focado em:
 *🎯 Meu objetivo:* construir soluções digitais criativas e funcionais, enquanto me preparo para contribuir de forma significativa na área de tecnologia.
 
 Vamos crescer juntos? Confira meus projetos e sinta-se à vontade para conectar-se comigo! 🚀
+
+Alguns dos meus projetos feitos:
