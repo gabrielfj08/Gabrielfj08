@@ -12,6 +12,7 @@ Atualmente, estou focado em:
 Vamos crescer juntos? Confira meus projetos e sinta-se à vontade para conectar-se comigo! 🚀
 
 Alguns dos meus projetos feitos:
-[Controle de Metas](https://github.com/gabrielfj08/Controle-de-Metas)
-[MFD Santos](https://github.com/gabrielfj08/MFD-Santos)
-[Jogo Cobra]
+
+- [Controle de Metas](https://github.com/gabrielfj08/Controle-de-Metas)
+- [MFD Santos](https://github.com/gabrielfj08/MFD-Santos)
+- [Jogo Cobra](https://github.com/gabrielfj08/Jogo_Cobra)
