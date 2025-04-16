@@ -1,18 +1,52 @@
 <h1>Olá, sou Gabriel Ferreira Jorge! 👋</h1>
-Com apenas 17 anos, já estou trilhando um caminho de aprendizado e desenvolvimento contínuo, preparando-me para os desafios da vida e do mercado. Sou apaixonado por tecnologia e programação, áreas nas quais estou constantemente aprimorando minhas habilidades.
 
+Tenho 17 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** (Uninter - EAD). Estou trilhando um caminho de constante evolução, unindo minha paixão por tecnologia e programação com a prática em projetos reais.
 
-Atualmente, estou focado em:
-- Desenvolvimento Web: Criação de sites modernos e responsivos.
-- Exploração de Novas Tecnologias: Buscando sempre entender e aplicar ferramentas inovadoras.
-- Aprendizado Contínuo: Participando de projetos e estudos que ampliam meu conhecimento.
-  
-*🎯 Meu objetivo:* construir soluções digitais criativas e funcionais, enquanto me preparo para contribuir de forma significativa na área de tecnologia.
+Sou determinado, curioso e acredito que aprender fazendo é a melhor forma de crescer — e é exatamente isso que venho buscando: **criar, errar, melhorar e evoluir**.
 
-Vamos crescer juntos? Confira meus projetos e sinta-se à vontade para conectar-se comigo! 🚀
+---
 
-Alguns dos meus projetos feitos:
+## 🚀 O que venho desenvolvendo
 
-- [Controle de Metas](https://github.com/gabrielfj08/Controle-de-Metas)
-- [MFD Santos](https://github.com/gabrielfj08/MFD-Santos)
-- [Jogo Cobra](https://github.com/gabrielfj08/Jogo_Cobra)
+Atualmente estou focado em:
+
+- 💻 **Desenvolvimento Web:** Criação de sites modernos, responsivos e bem estruturados.
+- 🧠 **Aprendizado Contínuo:** Explorando linguagens e tecnologias como HTML, CSS, JavaScript, Python e React.
+- 🤝 **Habilidades interpessoais:** Trabalho em telemarketing com negociação de dívidas, o que tem aprimorado minha comunicação, empatia e resiliência — habilidades que levo também para o mundo tech.
+
+---
+
+## 🎯 Meu objetivo
+
+Contribuir para o desenvolvimento de soluções digitais criativas e funcionais. Estou buscando minha primeira oportunidade profissional como **estagiário ou dev júnior**, para crescer junto a uma equipe, aprender com os desafios e evoluir com cada projeto.
+
+---
+
+## 🧰 Tecnologias que estudo e aplico
+
+- **Linguagens:** HTML, CSS, JavaScript, Python  
+- **Bibliotecas/Frameworks:** React (básico)  
+- **Ferramentas:** Git, GitHub, UOL Host, VS Code
+
+---
+
+## 💼 Alguns dos meus projetos
+
+- 🔗 [Controle de Metas](https://github.com/gabrielfj08/Controle-de-Metas)  
+  App simples para gerenciamento de objetivos pessoais.
+
+- 🔗 [MFD Santos](https://github.com/gabrielfj08/MFD-Santos)  
+  Site institucional para empresa de exportação de commodities agrícolas, com design responsivo e navegação fluida.
+
+- 🔗 [Jogo da Cobrinha](https://github.com/gabrielfj08/Jogo_Cobra)  
+  Jogo clássico com pontuação, lógica de colisão e controle via teclado.
+
+---
+
+## 🤝 Vamos crescer juntos?
+
+Convido você a conhecer meus projetos e, se quiser trocar ideias ou propor algo, estou à disposição.  
+🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/gabriel-jorge08)  
+📬 gabrieljorgef08@gmail.com
+
+🚀 Obrigado por passar por aqui!
