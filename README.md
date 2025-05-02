@@ -38,8 +38,8 @@ Contribuir para o desenvolvimento de soluções digitais criativas e funcionais.
 - 🔗 [MFD Santos](https://github.com/gabrielfj08/MFD-Santos)  
   Site institucional para empresa de exportação de commodities agrícolas, com design responsivo e navegação fluida.
 
-- 🔗 [Jogo da Cobrinha](https://github.com/gabrielfj08/Jogo_Cobra)  
-  Jogo clássico com pontuação, lógica de colisão e controle via teclado.
+- 🔗 [Projeto FocusTrack](https://github.com/gabrielfj08/FocusTrack)  
+  Projeto Autoral baseado em Trello e Norton, visando organização de metas e objetivos em estilo kanban
 
 ---
 
