@@ -1,52 +1,45 @@
-<h1>Olá, sou Gabriel Ferreira Jorge! 👋</h1>
+👋 Olá, eu sou Gabriel Ferreira Jorge
 
-Tenho 17 anos e sou estudante de **Análise e Desenvolvimento de Sistemas** (Uninter - EAD). Estou trilhando um caminho de constante evolução, unindo minha paixão por tecnologia e programação com a prática em projetos reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas (Uninter) e desenvolvedor em formação, com foco em desenvolvimento web front-end e base em análise de dados. Tenho experiência prática em projetos reais e pessoais, aplicando tecnologias modernas para criar soluções funcionais, responsivas e bem estruturadas.
 
-Sou determinado, curioso e acredito que aprender fazendo é a melhor forma de crescer — e é exatamente isso que venho buscando: **criar, errar, melhorar e evoluir**.
+Acredito que aprender fazendo é a melhor forma de evoluir. Por isso, mantenho projetos ativos, estudo constantemente novas tecnologias e busco transformar conhecimento em aplicações reais.
 
----
-
-## 🚀 O que venho desenvolvendo
+🚀 O que venho desenvolvendo
 
 Atualmente estou focado em:
 
-- 💻 **Desenvolvimento Web:** Criação de sites modernos, responsivos e bem estruturados.
-- 🧠 **Aprendizado Contínuo:** Explorando linguagens e tecnologias como HTML, CSS, JavaScript, Python e React.
-- 🤝 **Habilidades interpessoais:** Trabalho em telemarketing com negociação de dívidas, o que tem aprimorado minha comunicação, empatia e resiliência — habilidades que levo também para o mundo tech.
+Desenvolvimento Web: Criação de sites e aplicações web responsivas, com atenção à usabilidade e organização do código.
 
----
+Aprendizado contínuo: Estudo e prática com HTML, CSS, JavaScript, Python e React.
 
-## 🎯 Meu objetivo
+Habilidades interpessoais: Experiência profissional com atendimento e negociação, fortalecendo comunicação, empatia, organização e resiliência, competências importantes para ambientes colaborativos em tecnologia.
 
-Contribuir para o desenvolvimento de soluções digitais criativas e funcionais. Estou buscando minha primeira oportunidade profissional como **estagiário ou dev júnior**, para crescer junto a uma equipe, aprender com os desafios e evoluir com cada projeto.
+🎯 Objetivo profissional
 
----
+Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente com desafios reais e contribuir para o desenvolvimento de soluções digitais eficientes e bem estruturadas.
 
-## 🧰 Tecnologias que estudo e aplico
+🧰 Tecnologias e ferramentas
 
-- **Linguagens:** HTML, CSS, JavaScript, Python  
-- **Bibliotecas/Frameworks:** React (básico)  
-- **Ferramentas:** Git, GitHub, UOL Host, VS Code
+Linguagens: HTML, CSS, JavaScript, Python
+Bibliotecas/Frameworks: React (básico)
+Ferramentas: Git, GitHub, VS Code, UOL Host
 
----
+💼 Projetos em destaque
 
-## 💼 Alguns dos meus projetos
+🔹 Controle de Metas
+Aplicação simples para gerenciamento de objetivos pessoais.
 
-- 🔗 [Controle de Metas](https://github.com/gabrielfj08/Controle-de-Metas)  
-  App simples para gerenciamento de objetivos pessoais.
+🔹 MFD Santos
+Site institucional desenvolvido para empresa de exportação de commodities agrícolas, com foco em responsividade, clareza da informação e navegação intuitiva.
 
-- 🔗 [MFD Santos](https://github.com/gabrielfj08/MFD-Santos)  
-  Site institucional para empresa de exportação de commodities agrícolas, com design responsivo e navegação fluida.
+🔹 FocusTrack
+Projeto autoral inspirado em metodologias como Kanban, voltado à organização de metas e tarefas.
 
-- 🔗 [Projeto FocusTrack](https://github.com/gabrielfj08/FocusTrack)  
-  Projeto Autoral baseado em Trello e Norton, visando organização de metas e objetivos em estilo kanban
+🤝 Vamos conversar?
 
----
+Fique à vontade para explorar meus projetos, dar feedbacks ou entrar em contato.
 
-## 🤝 Vamos crescer juntos?
+🔗 LinkedIn: linkedin.com/in/gabriel-jorge08
+📬 E-mail: gabriel.jorgef08@gmail.com
 
-Convido você a conhecer meus projetos e, se quiser trocar ideias ou propor algo, estou à disposição.  
-🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/gabriel-jorge08)  
-📬 gabrieljorgef08@gmail.com
-
-🚀 Obrigado por passar por aqui!
+Obrigado por visitar meu perfil 🚀
